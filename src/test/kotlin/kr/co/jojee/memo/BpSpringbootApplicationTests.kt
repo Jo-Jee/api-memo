@@ -1,4 +1,4 @@
-package kr.co.jojee.bolierplate
+package kr.co.jojee.memo
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

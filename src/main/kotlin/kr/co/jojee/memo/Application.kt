@@ -1,4 +1,4 @@
-package kr.co.jojee.bolierplate
+package kr.co.jojee.memo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
